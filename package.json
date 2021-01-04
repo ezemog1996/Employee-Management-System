@@ -1,0 +1,25 @@
+{
+  "name": "Employee-Management-System",
+  "version": "1.0.0",
+  "description": "This application makes it easier to keep track of departments and employees",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezemog1996/Employee-Management-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezemog1996/Employee-Management-System/issues"
+  },
+  "homepage": "https://github.com/ezemog1996/Employee-Management-System#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
