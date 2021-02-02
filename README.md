@@ -4,17 +4,17 @@ Link to App: https://ezemog1996.github.io/Employee Management System/
 
 ## Table of Contents
 
-[Description](https://github.com/ezemog1996/Employee Management System#description)
+[Description](https://github.com/ezemog1996/Employee-Management-System#description)
 
-[Installation](https://github.com/ezemog1996/Employee Management System#installation)
+[Installation](https://github.com/ezemog1996/Employee-Management-System#installation)
 
-[Usage](https://github.com/ezemog1996/Employee Management System#usage)
+[Usage](https://github.com/ezemog1996/Employee-Management-System#usage)
 
-[Tests](https://github.com/ezemog1996/Employee Management System#tests)
+[Tests](https://github.com/ezemog1996/Employee-Management-System#tests)
 
-[License](https://github.com/ezemog1996/Employee Management System#license)
+[License](https://github.com/ezemog1996/Employee-Management-System#license)
 
-[Questions](https://github.com/ezemog1996/Employee Management System#questions)
+[Questions](https://github.com/ezemog1996/Employee-Management-System#questions)
 
 ### Description
 
