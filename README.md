@@ -20,6 +20,9 @@ Link to App: https://ezemog1996.github.io/Employee Management System/
 
 This application makes it easier to keep track of departments and employees by allowing the user (possibly a high level employee of business owner) to add departments, roles, and employees to a database and to view and edit them if necessary.
 
+![Employee-Management-System](https://user-images.githubusercontent.com/71483178/106672790-aac11f80-657e-11eb-9ca8-64a60e7eb1a4.png)
+
+
 ### Installation
 
 Clone this repository and run employee_managementDB.sql in MySQL.
